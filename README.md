@@ -27,7 +27,7 @@ Some images will carry with them extra information besides the image itself, con
 These custom images should be placed in a separate folder named `custom` witin the category folder.
 
 ### Custom .json files structure
-```json
+```json5
 {
   // Textboxes that could be filled with text
   "textboxes": [
