@@ -1,0 +1,115 @@
+{
+  "question": {
+    "chance": 20,
+    "list": [
+      "So?",
+      "And?"
+    ]
+  },
+  "response": {
+    "chance": 20,
+    "list": [
+      "Yes",
+      "No"
+    ]
+  },
+  "reaction": {
+    "chance": 20,
+    "list": [
+      "Not funny\nDidn't laugh",
+      "Is funny\nDid laugh",
+      "Damn bro that's crazy"
+    ]
+  },
+  "can't-take-it": {
+    "chance": 10,
+    "list": [
+      "I can't take it anymore\nSeriously I'm at my limit",
+      "I can't fucking take it\nSeriously I'm at my limit",
+      "I CANT FUCKING TAKE IT\nSERIOUSLY IM AT MY LIMIT",
+      "I CANT FUCKING TAKE IT\nIM AT MY FUCKING LIMIT",
+      "I am clinically insane",
+      "I am going fucking insane"
+    ]
+  },
+  "you-know-what?": {
+    "chance": 10,
+    "list": [
+      "You know what? Fuck you{undoes/does}",
+      "You know what? Fuck you"
+    ],
+    "_fillers": {
+      "undoes": [
+        "\nUnscrambles your eggs",
+        "\nUnvirgins your oil",
+        "\nUncakes your pans"
+      ],
+      "does": [
+        "\nFucks you"
+      ]
+    }
+  },
+  "war-crimes": {
+    "chance": 10,
+    "list": [
+      "I have committed several war crimes",
+      "I have committed several war crimes in {location}",
+      "I am wanted for war crimes in {location}"
+    ],
+    "_fillers": {
+      "location": [
+        "Serbia",
+        "Ukraine",
+        "Poland",
+        "Syria",
+        "Pakistan",
+        "Israel"
+      ]
+    }
+  },
+  "anime": {
+    "chance": 10,
+    "list": [
+      "No anime allowed"
+    ]
+  },
+  "misspelled": {
+    "chance": 10,
+    "list": [
+      "Your*",
+      "You're mom"
+    ]
+  },
+  "dumb": {
+    "chance": 7.5,
+    "list": [
+      "Shut the fuck up",
+      "Shut the fuck up\nShut the fuck up",
+      "Shut the fuck up\nShut the fuck up\nShut the fuck up",
+      "Shut the fuck up\nShut the fuck up\nShut the fuck up\nShut the fuck up"
+    ]
+  },
+  "hollow-knight": {
+    "chance": 5,
+    "list": [
+      "Hornet is void",
+      "Hornet is not void",
+      "No cost too great"
+    ]
+  },
+  "russian": {
+    "chance": 2.5,
+    "list": [
+      "Blyat",
+      "Suka",
+      "Suka blyat"
+    ]
+  },
+  "did-i-ask": {
+    "chance": 0.1,
+    "list": [
+      "Did I ask?",
+      "Who asked?"
+    ]
+  }
+}
